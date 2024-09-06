@@ -8,7 +8,7 @@
  - All commands are included in attacker client. Just enter "help" when client is connected.
 
 
-<p><b>Usage: python3 builder.py -s (Host IP) -p (Host Port, you choose it when launch attacker script) -f (filename).py</b></p>
+<p><b>Usage: python3 builder.py -s (Host IP) -p (Host Port, you choose it when launch attacker script) -f (filename)</b></p>
 
 After that, you will get a .py file and an executable file(executables on Windows and Linux are not the same). Executable will be in "dist" folder.
 
